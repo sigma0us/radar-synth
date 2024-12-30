@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-12-28_02-54-18")(type "KiCad")(uri "${KIPRJMOD}/lib/2024-12-28_02-54-18.kicad_sym")(options "")(descr ""))
+  (lib (name "skyworks")(type "KiCad")(uri "${KIPRJMOD}/lib/skyworks.kicad_sym")(options "")(descr ""))
+)
