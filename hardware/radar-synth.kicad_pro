@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.2032,
-          "height": 0.499999,
-          "width": 0.499999
+          "drill": 0.0,
+          "height": 4.500001,
+          "width": 4.500001
         },
         "silk_line_width": 0.16,
         "silk_text_italic": false,
@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|8401d60e-446f-4252-bf33-1f128dc14646",
+          ""
+        ],
+        [
+          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|cdcac8f1-4644-475c-9129-481e1b7da3f5",
+          ""
+        ],
+        [
+          "silk_overlap|164198090|61575000|6deab1b2-4528-4e85-aea7-f18641341575|dd02b4de-4833-413d-93f5-a3992c44657a",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -104,7 +117,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
@@ -124,17 +137,17 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.16,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.16,
+        "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -485,7 +498,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.16,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -502,7 +515,7 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.2,
+        "clearance": 0.16,
         "diff_pair_gap": 0.3,
         "diff_pair_width": 0.31,
         "microvia_diameter": 0.3,
@@ -516,7 +529,7 @@
         "via_drill": 0.3
       },
       {
-        "clearance": 0.3,
+        "clearance": 0.25,
         "diff_pair_gap": 0.3,
         "diff_pair_width": 0.31,
         "microvia_diameter": 0.3,
@@ -751,8 +764,9 @@
   ],
   "text_variables": {
     "COMPANY": "SIGMA0",
+    "DATE": "APRIL 2025",
     "ENGINEER": "AWL",
-    "PROJECT": "RF SYNTHESIZER ",
+    "PROJECT": "LMX2572EVM",
     "REVISION": "1.0"
   }
 }
