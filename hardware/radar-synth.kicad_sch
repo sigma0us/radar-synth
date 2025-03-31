@@ -2850,7 +2850,43 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "20V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W"
+		(property "Description" "DIODE SCHOTTKY 20V 1A SOD123W"
+			(at 35.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PMEG2010ER,115"
+			(at 35.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 35.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "1727-5192-1-ND"
+			(at 35.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Digikey"
 			(at 35.56 55.88 0)
 			(effects
 				(font
@@ -3133,7 +3169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 78.74 119.38 0)
 			(effects
 				(font
@@ -3142,7 +3178,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "74AUP1G34SE-7"
 			(at 78.74 119.38 0)
 			(effects
 				(font
@@ -3151,7 +3187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 78.74 119.38 0)
 			(effects
 				(font
@@ -3160,7 +3196,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "74AUP1G34SE-7-ND"
 			(at 78.74 119.38 0)
 			(effects
 				(font
@@ -3547,7 +3583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0402"
 			(at 54.61 119.38 0)
 			(effects
 				(font
@@ -3620,6 +3656,15 @@
 			)
 		)
 		(property "DATE" ""
+			(at 54.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 54.61 119.38 0)
 			(effects
 				(font
@@ -4215,7 +4260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN SMA JACK STR 50OHM EDGE MNT"
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -4224,7 +4269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -4233,7 +4278,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SMA-J-P-H-ST-EM1"
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -4242,7 +4287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -4251,7 +4296,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "SAM8857-ND"
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -4943,7 +4988,7 @@
 				)
 			)
 		)
-		(property "Value" "51R"
+		(property "Value" "49R9"
 			(at 184.912 78.232 0)
 			(effects
 				(font
@@ -4969,7 +5014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES SMD 49.9 OHM 0.5% 1/16W 0402"
 			(at 181.61 76.2 0)
 			(effects
 				(font
@@ -4978,7 +5023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay Dale"
+		(property "Manufacturer" "Susumu"
 			(at 181.61 76.2 0)
 			(effects
 				(font
@@ -4996,7 +5041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "Digikey"
 			(at 181.61 76.2 0)
 			(effects
 				(font
@@ -5005,7 +5050,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "71-CRCW0402J-51-E3 "
+		(property "SPN" "RR05R49.9DCT-ND"
 			(at 181.61 76.2 0)
 			(effects
 				(font
@@ -5030,6 +5075,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MPN" "RR0510R-49R9-D"
+			(at 181.61 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5093,7 +5146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN SMA JACK STR 50OHM EDGE MNT"
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -5102,7 +5155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -5111,7 +5164,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SMA-J-P-H-ST-EM1"
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -5120,7 +5173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -5129,7 +5182,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "SAM8857-ND"
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -5476,7 +5529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD R/A 6POS 1.25MM"
 			(at 29.21 88.9 0)
 			(effects
 				(font
@@ -5494,7 +5547,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SM06B-GHS-TB"
 			(at 29.21 88.9 0)
 			(effects
 				(font
@@ -5503,7 +5556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 29.21 88.9 0)
 			(effects
 				(font
@@ -5512,7 +5565,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "455-1568-1-ND"
 			(at 29.21 88.9 0)
 			(effects
 				(font
@@ -5596,7 +5649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN SMA JACK STR 50OHM EDGE MNT"
 			(at 266.7 88.9 0)
 			(effects
 				(font
@@ -5605,7 +5658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 266.7 88.9 0)
 			(effects
 				(font
@@ -5614,7 +5667,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SMA-J-P-H-ST-EM1"
 			(at 266.7 88.9 0)
 			(effects
 				(font
@@ -5623,7 +5676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 266.7 88.9 0)
 			(effects
 				(font
@@ -5632,7 +5685,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "SAM8857-ND"
 			(at 266.7 88.9 0)
 			(effects
 				(font

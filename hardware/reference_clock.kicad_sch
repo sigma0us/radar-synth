@@ -3430,7 +3430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0402"
 			(at 139.7 119.38 0)
 			(effects
 				(font
@@ -3504,6 +3504,15 @@
 		)
 		(property "DATE" ""
 			(at 139.7 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 139.7 122.682 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5182,8 +5191,43 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO"
+		(property "Description" "XTAL OSC XO 100.0000MHZ CMOS SMD"
 			(at 115.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "570CAC000121DG"
+			(at 103.886 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Skyworks Solutions Inc."
+			(at 103.124 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "336-2519-ND"
+			(at 100.33 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Digikey"
+			(at 98.552 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5770,7 +5814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 25V X7R 0402"
 			(at 105.41 137.16 0)
 			(effects
 				(font
@@ -5779,7 +5823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "KYOCERA AVX"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 105.41 137.16 0)
 			(effects
 				(font
@@ -5788,7 +5832,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "04025C104JAT2A"
+		(property "MPN" "CL05B104KA5NNNC"
 			(at 105.41 137.16 0)
 			(effects
 				(font
@@ -5797,7 +5841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "Digikey"
 			(at 105.41 137.16 0)
 			(effects
 				(font
@@ -5898,7 +5942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TI"
+		(property "Manufacturer" "Texus Instruments"
 			(at 123.19 151.13 0)
 			(effects
 				(font

@@ -5006,7 +5006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0402"
 			(at 229.87 101.6 0)
 			(effects
 				(font
@@ -5079,6 +5079,15 @@
 			)
 		)
 		(property "DATE" ""
+			(at 229.87 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 229.87 101.6 0)
 			(effects
 				(font
@@ -5749,7 +5758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 300PF 50V C0G/NP0 0402"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -5785,7 +5794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -5794,7 +5803,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM1555C1H301JA01D"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -5803,7 +5812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -5812,7 +5821,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "490-3234-1-ND"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -6228,7 +6237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 97.79 121.92 0)
 			(effects
 				(font
@@ -6255,7 +6264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "Digkey"
 			(at 97.79 121.92 0)
 			(effects
 				(font
@@ -6264,7 +6273,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "963-MBAST168SB7474KT "
+		(property "SPN" "587-MBAST168SB7474KTNA18TR-ND"
 			(at 97.79 121.92 0)
 			(effects
 				(font
@@ -6301,6 +6310,15 @@
 			)
 		)
 		(property "Dielectric" "X7R"
+			(at 97.79 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MBAST168SB7474KTNA18"
 			(at 97.79 121.92 0)
 			(effects
 				(font
@@ -6942,7 +6960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 390PF 50V C0G/NP0 0402"
 			(at 207.01 107.95 0)
 			(effects
 				(font
@@ -6978,7 +6996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 207.01 107.95 0)
 			(effects
 				(font
@@ -6987,7 +7005,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM1555C1H391JA01D"
 			(at 207.01 107.95 0)
 			(effects
 				(font
@@ -6996,7 +7014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "Digikey"
 			(at 207.01 107.95 0)
 			(effects
 				(font
@@ -7005,7 +7023,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" ""
+		(property "SPN" "490-1296-1-ND"
 			(at 207.01 107.95 0)
 			(effects
 				(font
@@ -8421,7 +8439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0402 10NF 16V X7R 10%"
+		(property "Description" "CAP CER 10000PF 16V X7R 0402"
 			(at 85.09 121.92 0)
 			(effects
 				(font
@@ -8430,7 +8448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Kyocera Avx"
 			(at 85.09 121.92 0)
 			(effects
 				(font
@@ -8439,7 +8457,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C103K4RECTU"
+		(property "MPN" "520L103KT16T"
 			(at 85.09 121.92 0)
 			(effects
 				(font
@@ -8457,7 +8475,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "399-C0402C103K4RECTUCT-ND"
+		(property "SPN" "1284-1540-1-ND"
 			(at 85.09 121.92 0)
 			(effects
 				(font
@@ -8878,7 +8896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/10W 0402"
 			(at 246.38 101.6 0)
 			(effects
 				(font
@@ -8951,6 +8969,15 @@
 			)
 		)
 		(property "DATE" ""
+			(at 246.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 246.38 101.6 0)
 			(effects
 				(font
