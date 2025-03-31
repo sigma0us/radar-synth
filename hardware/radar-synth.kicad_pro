@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.16,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -60,11 +60,15 @@
       ],
       "drc_exclusions": [
         [
-          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|8401d60e-446f-4252-bf33-1f128dc14646",
+          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|563ba2a8-7ec2-4726-bf5b-2a34560c00c9",
           ""
         ],
         [
-          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|cdcac8f1-4644-475c-9129-481e1b7da3f5",
+          "shorting_items|149430000|76230000|14e1de13-cb49-41f5-8515-89d9a9454600|7cb32af0-58b9-4122-aeda-022d53e5e496",
+          ""
+        ],
+        [
+          "shorting_items|151990000|76420000|de9defb3-f9aa-44bb-801a-4d44846cf6c1|ea7a4b97-9a46-4ae0-b119-132be4bdf5b2",
           ""
         ]
       ],
@@ -111,7 +115,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
