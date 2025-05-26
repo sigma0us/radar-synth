@@ -3608,14 +3608,14 @@
 	)
 	(hierarchical_label "REF_OSC_N"
 		(shape input)
-		(at 76.2 138.43 180)
+		(at 76.2 144.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "1b58f400-a9c8-4774-8ede-7a13b4a3d3d0")
+		(uuid "4197c742-e681-419b-aca3-cc1fa749bcad")
 	)
 	(hierarchical_label "rf_out_b_n"
 		(shape output)
@@ -3627,17 +3627,6 @@
 			(justify left)
 		)
 		(uuid "5b05e3fd-d3a4-41e5-9e0a-330efa49ba32")
-	)
-	(hierarchical_label "REF_OSC_P"
-		(shape input)
-		(at 76.2 144.78 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "729ce164-2f85-4bf0-92a2-9905114ac0c1")
 	)
 	(hierarchical_label "rf_out_a_n"
 		(shape output)
@@ -3660,6 +3649,17 @@
 			(justify left)
 		)
 		(uuid "ba631e3e-e978-4805-9285-d7fe402ac723")
+	)
+	(hierarchical_label "REF_OSC_P"
+		(shape input)
+		(at 76.2 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c985756d-ff9b-4189-a337-3d4d5038c2a4")
 	)
 	(hierarchical_label "lmx2572{ti_lmx_pll}"
 		(shape bidirectional)
